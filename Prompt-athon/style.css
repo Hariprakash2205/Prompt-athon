@@ -1,0 +1,142 @@
+/* Global */
+body {
+    background: #0f0f0f;
+    color: #fff;
+    font-family: 'Share Tech Mono', monospace;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  header {
+    text-align: center;
+    font-size: 2.5rem;
+    padding: 20px;
+    color: #0ff;
+    text-shadow: 0 0 8px #0ff;
+  }
+  
+  /* Game Layout */
+  .game-container {
+    display: flex;
+    justify-content: center;
+    align-items: stretch; /* Makes both sides equal height */
+    width: 90%;
+    max-width: 1200px;
+    margin: 20px auto;
+    gap: 20px;
+  }
+  
+  /* LEFT: Media */
+  .image-section {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #1a1a1a;
+    border: 2px solid #0ff;
+    border-radius: 12px;
+    padding: 10px;
+    box-shadow: 0 0 20px #0ff;
+    min-height: 60vh; /* Ensures good space */
+  }
+  
+  .question-media {
+    width: 100%;
+    max-width: 100%;
+    max-height: 60vh;
+    object-fit: contain; /* Keeps aspect ratio inside box */
+    border-radius: 12px;
+  }
+  
+  /* RIGHT: Options */
+  .options-section {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background: #1a1a1a;
+    border: 2px solid #ff0;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 0 20px #ff0;
+    overflow-y: auto; /* Scroll if too many options */
+    min-height: 60vh;
+  }
+  
+  /* Option Buttons */
+  .option-btn {
+    width: 90%;
+    padding: 12px;
+    margin: 8px 0;
+    font-size: 1rem;
+    border: none;
+    border-radius: 8px;
+    background: #222;
+    color: #fff;
+    cursor: pointer;
+    text-align: left;
+    transition: background 0.3s, transform 0.2s;
+  }
+  
+  .option-btn:hover {
+    background: #333;
+    transform: scale(1.03);
+  }
+  
+  .option-btn.correct {
+    background: #0f0;
+    color: #000;
+  }
+  
+  .option-btn.wrong {
+    background: #f00;
+    color: #000;
+  }
+  
+  /* Buttons */
+  .next-btn, .restart-btn {
+    padding: 10px 20px;
+    font-size: 1rem;
+    margin-top: 20px;
+    border-radius: 8px;
+    background: #0ff;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  .next-btn:hover, .restart-btn:hover {
+    background: #0cc;
+  }
+  
+  /* Scoreboard */
+  .scoreboard {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  /* Progress Bar */
+  .progress-bar-container {
+    width: 80%;
+    margin: 0 auto;
+    background: #222;
+    border-radius: 8px;
+    height: 10px;
+  }
+  
+  .progress-bar {
+    background: #0ff;
+    height: 100%;
+    width: 0;
+    border-radius: 8px;
+    transition: width 0.3s ease;
+  }
+  

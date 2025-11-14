@@ -1,0 +1,146 @@
+[
+    {
+      "type": "image",
+      "file": "images/image 1.png",
+      "options": [
+        "A young woman in a cozy café, wearing a burnt-orange sweater, smiling with her eyes closed while holding a cup of coffee.",
+        "A bustling outdoor market with colorful fruit stalls and people shopping under umbrellas.",
+        "A futuristic sci-fi city skyline at night with glowing neon lights and flying cars.",
+        "A peaceful mountain landscape with a lake, pine trees, and snow-covered peaks in the distance."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "image",
+      "file": "images/image 2.png",
+      "options": [
+        "A muscular man in a loose red t-shirt and black shorts, seated on a yoga mat, holding kettlebells with a calm expression in a brightly lit gym.",
+        "A muscular man in a fitted red t-shirt and black shorts, sitting on a workout bench, gripping two heavy dumbbells with a strained facial expression in a dimly lit gym.",
+        "A muscular man in a fitted red t-shirt and black pants, sitting on a bench press machine, gripping dumbbells with a neutral face in a well-lit gym.",
+        "A fit man in a tight maroon shirt and black shorts, sitting on a workout bench, holding one dumbbell in each hand with a relaxed smile."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "video",
+      "file": "videos/video 1.mp4",
+      "options": [
+        "A dramatic close-up of a firefighter holding a child, walking toward the camera. A building is on fire behind them.",
+        "A heroic, cinematic shot of a firefighter with a helmet and air mask, walking out of a burning building while carrying a small child. The background shows intense flames and debris. (Correct)",
+        "A shot of a firefighter carrying a child out of a burning building. The child is wrapped in their arms. The background is a detailed scene of a building on fire.",
+        "A powerful, hyper-realistic, medium-angle shot of a firefighter in full gear, walking away from a burning building while holding a child."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "image",
+      "file": "images/image 3.png",
+      "options": [
+        "A candid moment of two guys laughing in a beach, wearing casual shirts, as water from a nearby fountain sprays behind them.",
+        "A picture of two friends joking around near a swimming pool, one in a maroon shirt and the other in a dark blue shirt, with splashing water in the air.",
+        "A candid shot of two young men laughing and playing at the beach, one wearing a burnt-orange t-shirt and the other a navy-blue t-shirt, as ocean waves crash behind them under a clear sky.",
+        "Two men laughing on a sandy lakeside shore, wearing casual t-shirts, one in red and the other in blue, with mountains faintly visible in the background."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "image",
+      "file": "images/image 4.png",
+      "options": [
+        "A boy in a dark t-shirt and shorts running through glowing bioluminescent waves at night, with blue water splashing around him.",
+        "A boy in bright swimwear running across a sunny beach, with golden waves and a clear sky in the background.",
+        "A boy running near a brightly lit swimming pool at night, surrounded by artificial lights and no ocean waves.",
+        "A child playing in shallow water under moonlight, with soft ripples instead of splashes and no glowing waves."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "image",
+      "file": "images/image 5.png",
+      "options": [
+        "A girl in a red tennis outfit serving on a clay tennis court.",
+        "A young woman in a red shirt and black shorts kicking a black-and-white soccer ball on a grassy field with a goalpost in the background.",
+        "A female athlete wearing a red top and black shorts playing basketball in an indoor court.",
+        "A woman running in a track and field race, wearing a red sports jersey and shorts."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "video",
+      "file": "videos/video 2.mp4",
+      "options": [
+        "An ultra-realistic wide shot of a grey sports car drifting in a desert, kicking up a giant plume of sand in an arc with gentle rolling sand dunes in the background.",
+        "A wide, cinematic shot of a grey sports car doing a high-speed drift on the sand, kicking up a massive wave of sand. (Correct)",
+        "A cinematic shot of a grey-toned sports car drifting across the sand in a desert with a cloud of sand trailing behind it.",
+        "A wide shot of a grey sports car drifting through a desert, kicking up a lot of sand and dust."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "image",
+      "file": "images/image 6.png",
+      "options": [
+        "A man wearing a blue soccer jersey, dribbling a football on an artificial grass field.",
+        "A male field hockey player in a blue and white striped uniform with a captain’s armband, dribbling a yellow ball on a green turf field during a match.",
+        "A hockey coach giving instructions while holding a stick, standing beside a green turf.",
+        "A cricket player in a blue uniform, swinging a bat during a practice match."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "image",
+      "file": "images/image 7.png",
+      "options": [
+        "A close-up shot of a woman with a wide smile, holding an ice cream cone while a brown dog plays with a ball nearby in a park.",
+        "A joyful, close-up photo of a woman with her eyes closed and a big smile, holding a small ice cream cone for a brown and white dog to lick. The scene is set in a sunny, green park.",
+        "A candid shot of a man and a dog in a park. The man is laughing as he holds an ice cream cone.",
+        "A close-up of a woman in a park, holding an ice cream cone. She is looking at her golden retriever who is sitting next to her."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "video",
+      "file": "videos/video 3.mp4",
+      "options": [
+        "A happy woman in a green sweater standing behind a clothing rack, with a modern, minimalist boutique in the background.",
+        "A medium shot of a woman with a neutral expression, organizing a rack of shirts in a vintage clothing store.",
+        "A medium shot of a smiling woman in a green sweater looking at colorful dresses on a rack. She is in a cozy, vintage clothing store with warm lighting.",
+        "A wide shot of a woman in a green sweater standing in a dark, empty clothing store, looking at the clothes on a single rack."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "image",
+      "file": "images/image 8.png",
+      "options": [
+        "A joyful family of three, a mother, father, and daughter, smiling as they pose behind a birthday cake with pink and white decorations.",
+        "A celebratory shot of a mother, father, and teenage daughter holding a knife together to cut a two-tiered birthday cake with a topper.The background is decorated with pink and white balloons.",
+        "A candid photo of a mother and father helping their son cut a cake at a birthday party in a decorated room.",
+        "A family of three celebrating a birthday with a single-tier cake. The daughter is holding the knife to cut the cake while her parents stand beside her."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "image",
+      "file": "images/image 9.png",
+      "options": [
+        "A young woman guiding a blind man with a white cane across a wet street in a busy city in India, shot during the golden hour.",
+        "A young woman holding hands with an elderly man as they walk across a sunny street. He has a white cane.",
+        "An empathetic, close-up shot of a young woman helping an elderly man with his groceries on a city street.",
+        "A wide shot of a young woman and an older man walking in a city park. He is holding a white cane."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "image",
+      "file": "images/image 10.png",
+      "options": [
+        "A young boy in a blue shirt holding a pink tulip while facing an orange tabby cat sitting on a ledge.",
+        "A boy feeding a black kitten while holding a bowl of milk.",
+        "A little girl in a blue dress smelling a sunflower in a garden.",
+        "A child showing a dog a bunch of yellow flowers in a park."
+      ],
+      "answer": 0
+    }
+  ]
+  

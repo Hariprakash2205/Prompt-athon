@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Prompt-athon</title>
+  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>Prompt-athon</header>
+
+  <!-- Score and Progress -->
+  <div class="score-board" id="score-display">Score: 0</div>
+  <div class="progress-bar-container">
+    <div class="progress-bar" id="progress-bar"></div>
+  </div>
+
+  <!-- Game Section -->
+  <div id="game" class="game-container">
+    <!-- Left: Media -->
+    <div class="image-section" id="media-container"></div>
+
+    <!-- Right: Options -->
+    <div class="options-section">
+      <div id="options"></div>
+      <p id="feedback"></p>
+      <button class="next-btn" id="next-btn" style="display:none;">Next</button>
+    </div>
+  </div>
+
+  <!-- Scoreboard -->
+  <div id="scoreboard" class="scoreboard hidden">
+    <h2>🎉 Game Over!</h2>
+    <p id="final-score"></p>
+    <button class="restart-btn" id="restart-btn">Restart</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
